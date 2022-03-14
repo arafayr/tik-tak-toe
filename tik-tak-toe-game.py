@@ -410,8 +410,6 @@ def playoutside():
             
             
     
-    #obj2.show()
-    
     
 
 #playoutside() 
