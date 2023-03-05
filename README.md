@@ -33,7 +33,7 @@ This class represents a 2-dimensional array using an array of arrays. It has the
 * `noofrows()`: Returns the number of rows in the array.
 * `noofcols()`: Returns the number of columns in the array.
 * `__getitem__(ndxtpl)`: Returns the element at the specified index tuple.
-*`__setitem__(ndxtpl, value)`: Sets the element at the specified index tuple to the specified value.
+* `__setitem__(ndxtpl, value)`: Sets the element at the specified index tuple to the specified value.
 
 ## tiktaktoe
 This class represents the Tic-Tac-Toe game. It has the following methods:
